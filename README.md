@@ -8,21 +8,21 @@
 <!-- cards:start -->
 <div align="center">
 
-<img src="cards/hero-bc1a123d.svg" width="100%" alt="Prajit Balan. I like building cool stuff, trying out new technologies, and seeing how far I can take an idea.">
+<img src="cards/hero-cdbbf233.svg" width="100%" alt="Prajit Balan. I like building cool stuff, trying out new technologies, and seeing how far I can take an idea.">
 <br>
-<a href="https://www.linkedin.com/in/prajitbalan"><img src="cards/tile-1-b490faf1.svg" width="32.5%" alt="Prajit Balan on LinkedIn"></a>
-<a href="https://x.com/prajitbalan"><img src="cards/tile-2-3604d545.svg" width="32.5%" alt="Prajit Balan on X"></a>
-<img src="cards/tile-3-bcf3bf07.svg" width="32.5%" alt="Prajit Balan&#x27;s website (coming soon)">
+<a href="https://www.linkedin.com/in/prajitbalan"><img src="cards/tile-1-e0d95383.svg" width="32.5%" alt="Prajit Balan on LinkedIn"></a>
+<a href="https://x.com/prajitbalan"><img src="cards/tile-2-d1cf91e7.svg" width="32.5%" alt="Prajit Balan on X"></a>
+<img src="cards/tile-3-af34fba0.svg" width="32.5%" alt="Prajit Balan&#x27;s website (coming soon)">
 <br>
-<img src="cards/stats-6da6f9b6.svg" width="100%" alt="Contributions per month for the last year. Longest streak 5 days, active on 51 days. Won 2 of 2 hackathons.">
+<img src="cards/stats-e4dfcd3c.svg" width="100%" alt="Contributions per month for the last year. Longest streak 5 days, active on 51 days. Won 2 of 2 hackathons.">
 <br>
-<img src="cards/projects-heading-f64b6ad4.svg" width="100%" alt="What I&#x27;m coding">
+<img src="cards/projects-heading-3372ff44.svg" width="100%" alt="What I&#x27;m coding">
 <br>
-<a href="https://writeontime.ink"><img src="cards/project-neurosight-a46fecee.svg" width="32.5%" alt="NeuroSight: A research prototype that brings records, timelines, assessments and trends into one workspace you can ask questions of."></a>
-<a href="https://github.com/praj1t/NavIQ"><img src="cards/project-naviq-35e56f18.svg" width="32.5%" alt="NavIQ: Research Indian mutual funds, compare historical performance, and explore financial data to make more informed investment decisions."></a>
-<a href="https://github.com/praj1t/Callender"><img src="cards/project-callender-8bc1f95f.svg" width="32.5%" alt="Callender: An AI voice agent that handles inbound customer calls, checks availability, and manages bookings, rescheduling, and cancellations through Google Calendar."></a>
+<a href="https://writeontime.ink"><img src="cards/project-neurosight-d5157609.svg" width="32.5%" alt="NeuroSight: A research prototype that brings records, timelines, assessments and trends into one workspace you can ask questions of."></a>
+<a href="https://github.com/praj1t/NavIQ"><img src="cards/project-naviq-99e57f2b.svg" width="32.5%" alt="NavIQ: Research Indian mutual funds, compare historical performance, and explore financial data to make more informed investment decisions."></a>
+<a href="https://github.com/praj1t/Callender"><img src="cards/project-callender-ca881117.svg" width="32.5%" alt="Callender: An AI voice agent that handles inbound customer calls, checks availability, and manages bookings, rescheduling, and cancellations through Google Calendar."></a>
 <br>
-<img src="cards/graph-cb4f672c.svg" width="100%" alt="Contribution graph, 193 contributions in the last year.">
+<img src="cards/graph-79668f36.svg" width="100%" alt="Contribution graph, 196 contributions in the last year.">
 
 </div>
 <!-- cards:end -->
