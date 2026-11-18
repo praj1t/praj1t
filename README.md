@@ -14,7 +14,7 @@
 <a href="https://x.com/prajitbalan"><img src="cards/tile-2-d1cf91e7.svg" width="32.5%" alt="Prajit Balan on X"></a>
 <img src="cards/tile-3-af34fba0.svg" width="32.5%" alt="Prajit Balan&#x27;s website (coming soon)">
 <br>
-<img src="cards/stats-ef312adc.svg" width="100%" alt="Contributions per month for the last year. Longest streak 6 days, active on 55 days. Won 2 of 2 hackathons.">
+<img src="cards/stats-0ea96401.svg" width="100%" alt="Contributions per month for the last year. Longest streak 7 days, active on 56 days. Won 2 of 2 hackathons.">
 <br>
 <img src="cards/projects-heading-3372ff44.svg" width="100%" alt="What I&#x27;m coding">
 <br>
@@ -22,7 +22,7 @@
 <a href="https://github.com/praj1t/NavIQ"><img src="cards/project-naviq-99e57f2b.svg" width="32.5%" alt="NavIQ: Research Indian mutual funds, compare historical performance, and explore financial data to make more informed investment decisions."></a>
 <a href="https://github.com/praj1t/Callender"><img src="cards/project-callender-ca881117.svg" width="32.5%" alt="Callender: An AI voice agent that handles inbound customer calls, checks availability, and manages bookings, rescheduling, and cancellations through Google Calendar."></a>
 <br>
-<img src="cards/graph-4d7cf225.svg" width="100%" alt="Contribution graph, 220 contributions in the last year.">
+<img src="cards/graph-896858ff.svg" width="100%" alt="Contribution graph, 221 contributions in the last year.">
 
 </div>
 <!-- cards:end -->
